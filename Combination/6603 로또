@@ -1,0 +1,42 @@
+#include <iostream>
+#include <algorithm>
+
+using namespace std;
+
+int S[51];
+int tmp[7];
+int k;
+
+void combination(int depth, int next)
+{
+    if(depth==6)
+    {
+        for(int i=0; i<6; i++)
+        {
+            cout << tmp[i] << " ";
+        }
+        cout << endl;
+    }
+    for(int i=next; i<k; i++)
+    {
+        tmp[depth] = S[i];
+        combination(depth+1, i+1);
+    }
+}
+int main()
+{
+    while(true)
+    {
+        cin >> k;
+        if(k==0)
+            return 0;
+        for(int i=0; i<k; i++)
+        {
+            cin >> S[i];
+        }
+        sort(S, S+k);
+        combination(0, 0);
+        cout << endl;
+    }
+    
+}
