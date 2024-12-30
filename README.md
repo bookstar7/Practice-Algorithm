@@ -7,8 +7,9 @@
 <h3> ✒️ Solve 100 Exam </h3>
 <h3> ✒️ Improve practical ability </h3>
 
-<h1 align="middle"> 💫 progress (4%)💫 </h1>
+<h1 align="middle"> 💫 progress (5%)💫 </h1>
 <h3> ✔️ 1010 다리 놓기 </h3>
 <h3> ✔️ 11050 이항 계수1 </h3>
 <h3> ✔️ 1759 암호 만들기 </h3>
 <h3> ✔️ 6603 로또 </h3>
+<h3> ✔️ 9375 패션왕 신해빈 </h3>
