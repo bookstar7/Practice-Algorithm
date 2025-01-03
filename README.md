@@ -7,7 +7,7 @@
 <h3> ✒️ Solve 100 Exam </h3>
 <h3> ✒️ Improve practical ability </h3>
 
-<h1 align="middle"> 💫 progress (8%)💫 </h1>
+<h1 align="middle"> 💫 progress (9%)💫 </h1>
 <h3> ✔️ 1010 다리 놓기 </h3>
 <h3> ✔️ 11050 이항 계수1 </h3>
 <h3> ✔️ 1759 암호 만들기 </h3>
@@ -16,3 +16,4 @@
 <h3> ✔️ 11051 이항 계수2 </h3>
 <h3> ✔️ 15439 베라의 패션 </h3>
 <h3> ✔️ 2407 조합 </h3>
+<h3> ✔️ 10972 다음 순열 </h3>
