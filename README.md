@@ -7,7 +7,7 @@
 <h3> ✒️ Solve 100 Exam </h3>
 <h3> ✒️ Improve practical ability </h3>
 
-<h1 align="middle"> 💫 progress (6%)💫 </h1>
+<h1 align="middle"> 💫 progress (8%)💫 </h1>
 <h3> ✔️ 1010 다리 놓기 </h3>
 <h3> ✔️ 11050 이항 계수1 </h3>
 <h3> ✔️ 1759 암호 만들기 </h3>
